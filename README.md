@@ -1,6 +1,7 @@
-# crud
+# House Rules CRUD
 
-## Build Setup
+## Bui<img width="800" alt="Captura de Tela 2023-06-19 às 16 04 22" src="https://github.com/GuilhermeDBeitum/HouseRules/assets/54703843/599e740f-3c48-4b93-b83e-1902c0dfd23d">
+ld Setup
 
 ```bash
 # install dependencies
